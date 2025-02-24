@@ -1,5 +1,3 @@
-# Nagaland Health Project (Health Information System)(NHP HIS)
-
 # **Nagaland Health Project Hospital Information System Dashboard (NHPHIS Dashboard)**
 
 ## **📌 Overview**
